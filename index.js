@@ -1,7 +1,7 @@
 let str = "";
 let bttns = document.querySelectorAll("button")
 
-console.log(eval("10.1*10"));
+// console.log(eval("10.1*10"));
 
 Array.from(bttns).forEach((bttn)=>{
     bttn.addEventListener('click',(e)=>{

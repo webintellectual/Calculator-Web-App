@@ -104,8 +104,8 @@ body{
 
     input{
         height: 9vw;
-        padding-bottom: 5vw;
-        background-color: red;
+        background-color: greenyellow;
+        line-height: 40;
     }
 
 }
