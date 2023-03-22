@@ -81,3 +81,25 @@ button{
 body{
     background-color: rgb(215, 199, 199);
 }
+
+@media (max-width: 500px){
+    button{
+        font-size: 3.5vw;
+        height: 5vw;
+        width: 5vw;
+    }
+
+    #container{
+        height: 58vw;
+    }
+    #clear-btn{
+        width: 19vw;
+        height: 10vw;
+        font-size: 4vw;
+    }
+    #bs{
+        width: 10vw;
+        height: 10vw;
+    }
+
+}
